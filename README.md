@@ -2,6 +2,18 @@
 
 A set of Claude "skills" that help self-represented people in Australian family law matters check their own documents against the law: compliance with court orders and child support agreements, the conduct of lawyers and experts, and how to write a complaint to a regulator.
 
+## What can this help with?
+
+Common questions these skills help you work through, using your own documents:
+
+- **Is the other parent breaching the parenting orders?** Check a missed call, a late changeover or a missed payment against your final orders or Binding Child Support Agreement.
+- **How do I challenge a family report or a single expert report?** Check a psychiatrist's, psychologist's or social worker's report, a Child Impact Report or a Family Report against the Family Law Rules and the Family Law Act.
+- **Did the Independent Children's Lawyer (ICL) do their job properly?** Review an ICL's conduct from a hearing transcript.
+- **Can I complain about a family lawyer in NSW?** Review a solicitor's conduct, costs disclosure and bills, yours or the other side's.
+- **How do I write a complaint to the HCCC, the OLSC or Legal Aid?** Turn findings into a complaint letter a regulator can check line by line.
+
+They are written for the Federal Circuit and Family Court of Australia (FCFCOA). Some conduct and complaint rules are specific to New South Wales.
+
 ## How to use
 
 Start with `GETTING-STARTED.md`. Each skill folder also has a `USER-GUIDE.md`.
