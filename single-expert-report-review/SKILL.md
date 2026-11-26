@@ -9,7 +9,7 @@ Use this when asked to review, audit, check compliance of, score, or challenge a
 
 ## Benchmarks
 
-1. **Federal Circuit and Family Court of Australia (Family Law) Rules 2021, Part 7.1** (Divisions 7.1.1–7.1.7). Use the compilation in force on the review date.
+1. **Federal Circuit and Family Court of Australia (Family Law) Rules 2021, Part 7.1** (Divisions 7.1.1–7.1.7). Use the compilation in force on the review date. As at 26 November 2026 that is Compilation No. 4 (compilation date 10 June 2025, F2025C00594); the Part 7.1 and r 8.11 pinpoints in this skill were checked against it on that date. Check for a later compilation every time.
 2. **Family Law Act 1975 (Cth)** — Part VII, esp. s 60CC (best interests, as amended by the Family Law Amendment Act 2023 from 6 May 2024), s 60CG (family violence), s 62G (family report orders), **Subdivision DA ss 67ZBC–67ZBK** (information sharing orders — replaced s 69ZW from 6 May 2024), s 69ZT (Evidence Act provisions switched off in child-related proceedings), **Part XIVB ss 114N–114S** (communication of details of proceedings — replaced the former s 121), *Family Law Regulations 2024* s 54 (information sharing safeguards; this was reg 12CBB of the repealed *Family Law Regulations 1984* until 1 April 2025).
 3. **RANZCP PPG3** — Australian Family Court proceedings (Feb 2019).
 4. **RANZCP PPG11** — Developing reports and conducting independent medical examinations in medico-legal settings (Nov 2020).
@@ -48,7 +48,7 @@ All three are "designated family reports" if they follow a family assessment and
 ### Step B — Benchmarks for these tracks
 
 1. **Family Law Act 1975 (Cth):** s 11A (functions), s 11B (who is a family consultant), s 11C (communications are admissible and not confidential, but only if the person was first told so: s 11C(2); abuse disclosures excepted: s 11C(3)), s 11D (same immunity as a judge; s 11D(2) reserves s 11K obligations), s 11E, s 11F and s 11G (attendance orders and consequences), s 62G(2) (direction), **s 62G(3A) (must ascertain the child's views on the matter and include them)**, s 62G(3B) (unless inappropriate for age, maturity or special circumstance), s 62G(4) (may add other welfare matters), s 62G(6) (must report non-attendance), s 62G(8) (may be received in evidence), s 60CE (child cannot be required to express views), s 60CC, s 67ZA (family consultant must notify a child welfare authority on reasonable suspicion of abuse), Part XIVB.
-2. **Rules:** r 8.11(1) and note (a family consultant's report may be a child impact report, specific issues report or family report), r 8.11(2) (factors for ordering), **r 8.11(3) (the application and the order must identify the issues the report is to address)**, r 8.11(4), r 8.11(5) (release, receipt in evidence, oral examination, restriction of access), r 8.11(6) (notice that goes with a released copy), r 7.01(1)(d), r 7.14.
+2. **Rules:** r 8.11(1) and note (a family consultant's report may be a child impact report, specific issues report or family report), r 8.11(2) (factors for ordering), **r 8.11(3) (the application and the order must identify the issues the report is to address)**, r 8.11(4), r 8.11(5) (release, receipt in evidence, oral examination, restriction of access), r 8.11(6) (the notice that must go with a copy the court gives out otherwise than by order), r 7.01(1)(d), r 7.14.
 3. **Australian Standards of Practice for Family Assessments and Reporting (February 2015):** 41 standards. Not legally binding, pre-dates the 2021 court merger, but endorsed by the courts and the usual yardstick for all tracks. Take standard numbers from the PDF on the review date, never from memory.
 4. **Psychologists (registered):** Psychology Board of Australia, *Code of conduct for psychologists*, in effect 1 December 2025. Most relevant: 8.8 (legal, insurance and other assessments), 8.9 (reports, certificates and giving evidence), 8.12 (conflicts of interest), 8.3 (integrity of assessment methods), 8.5 (client records), 4.2 (informed consent), 4.3 (children and young people), 4.4 (associated parties), 4.9 (multiple relationships), 3.3 (privacy and confidentiality), 2.2 and 3.1 (cultural safety). **Conduct before 1 December 2025 is assessed against the APS Code of Ethics (2007)**, so date every act before choosing the code. Check the clause wording live.
 5. **Social workers (not registered with Ahpra):** AASW *Code of Ethics 2020*. It binds AASW members only (section 10.1). Clauses that matter for a court report, checked against the Code's text:
@@ -142,7 +142,7 @@ Score as usual: Compliant / Partial / Non-compliant / Not assessable, each with 
 
 - Same two outputs as Step 4. Title the Claude Doc "Court Report Compliance Review — [author] ([report type], [report date])" and use Domains F1 to F6 for Track A. Replace "Draft r 7.26 questions" with "Cross-examination topics and proposed questions (leave required)". Deadlines section: the 14-day notice, the hearing date, and for an Addendum the six-month window.
 - A complaint follows Step 4A and Writing conventions 1, 2, 5 and 6. Convention 4 (s 139B and s 139E stated expressly) applies to registered practitioners only. For a social worker, each Conclusion names the code clause breached and the relief sought is what that body can give.
-- **Release restriction comes before Annexure 1.** A party may not show a CIR or family report to anyone, including family and other professionals, without the Court's permission, and the court may restrict access (r 8.11(5)(d)); a released copy carries a notice saying who may have it (r 8.11(6)). Before quoting or extracting a report for any regulator or professional body, read the release order and the cover notice. If either restricts release, court permission is needed first. FLA s 114S(2)(d) answers the Part XIVB offence only; it does not override a court order. Until permission is given, the complaint cites paragraph and page numbers without quotation and asks the body to obtain the report from the Court.
+- **Release restriction comes before Annexure 1.** A party may not show a CIR or family report to anyone, including family and other professionals, without the Court's permission, and the court may restrict access (r 8.11(5)(d)); a copy the court gives out otherwise than by order must carry a notice saying who may have it (r 8.11(6)). Before quoting or extracting a report for any regulator or professional body, read the release order and the cover notice. If either restricts release, court permission is needed first. FLA s 114S(2)(d) answers the Part XIVB offence only; it does not override a court order. Until permission is given, the complaint cites paragraph and page numbers without quotation and asks the body to obtain the report from the Court.
 
 ## Writing conventions (mandatory for every output, review or complaint)
 
@@ -234,7 +234,7 @@ One or more per Critical/Notable finding: clarification only, non-vexatious, no 
 - Qualifications included and accurately presented (r 7.22(2)(a); PPG11 §4.2.6)
 - Literature/material relied on (r 7.22(2)(b))
 - Facts, matters and assumptions underlying each opinion (r 7.22(2)(c))
-- Document proofed: no placeholders, blank paragraphs, truncated sentences or internal date/identity contradictions (r 7.21(1)(c); r 7.22)
+- Document proofed: no placeholders, blank paragraphs, truncated sentences or internal date/identity contradictions. No rule requires proofing as such: raise these as going to the reliability of the verification (r 7.21(1)(c), r 7.21(2)) and of the contents (r 7.22), not as a breach of those rules
 
 ### Domain 2 — Appointment and instructions (rr 7.03–7.06, 7.13; PPG3 §5.1, §5.12)
 - Valid appointment: joint agreement (r 7.03) or court order with expert's consent (r 7.04)
@@ -251,7 +251,7 @@ One or more per Critical/Notable finding: clarification only, non-vexatious, no 
 - Incompleteness or inaccurate/incomplete research flagged (r 7.18(3)(e)(ii))
 - Not an advocate (PPG3 §4.3)
 - Opinion delineated from fact; reasoning explained (PPG11 §4.2.8)
-- No draft shown; opinion not altered at a party's request; changes only by supplementary report identifying the change (PPG11 §4.2.11; r 7.18(5))
+- No draft shown; opinion not altered at a party's request (PPG11 §4.2.11). A change of opinion after the report is given must be notified in writing (r 7.18(5): to the instructing party, or for a court-appointed expert to the Registry Manager and each party); the rule says "written notice", not "supplementary report", so cite PPG11 for the supplementary report point
 - No disparaging comment on other professionals (PPG11 §6.3)
 - No conflict of interest; treating role disclosed (PPG11 §4.3, §6.4; r 7.01(1)(a))
 - Offered or available material (full subpoena return, treating practitioner, later supervision reports) obtained before certifying that all desirable enquiries were made
