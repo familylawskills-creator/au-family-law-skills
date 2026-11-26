@@ -34,4 +34,4 @@ Do not put real names, children's details, case numbers or sealed documents into
 
 ## Licence
 
-**Free to use. Not free to copy.** You may use these skills at no cost for your own personal, non-commercial purposes, and adapt them for that use. Copying, republishing, redistributing or commercial use needs a paid licence from the author. To ask for one, open an issue titled "Licence request". Full terms are in `LICENSE.md`.
+**Free to use and share for personal, non-commercial purposes.** You may use, adapt, copy and share these skills at no cost, as long as you give credit, link to this repository, keep the licence and disclaimer with every copy, and say what you changed. Commercial use needs a paid licence from the author. To ask for one, open an issue titled "Licence request". Full terms are in `LICENSE.md`.
