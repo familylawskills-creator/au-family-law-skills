@@ -1,6 +1,6 @@
 # Australian Family Law Self-Help Skills
 
-A set of Claude "skills" that help self-represented people in Australian family law matters check their own documents against the law: compliance with court orders and child support agreements, the conduct of lawyers and experts, and how to write a complaint to a regulator.
+A set of Claude "skills" that help people in Australian family law matters, whether they represent themselves or have a solicitor, check their own documents against the law: compliance with court orders and child support agreements, the conduct of lawyers and experts, and how to write a complaint to a regulator.
 
 ## What can this help with?
 
@@ -19,6 +19,7 @@ They are written for the Federal Circuit and Family Court of Australia (FCFCOA).
 1. **Get the skills:** [open the repository on GitHub](https://github.com/familylawskills-creator/au-family-law-skills) or [download everything as a ZIP](https://github.com/familylawskills-creator/au-family-law-skills/archive/refs/heads/main.zip).
 2. **Read the guide:** start with [GETTING-STARTED.md](GETTING-STARTED.md). Each skill folder also has a `USER-GUIDE.md`.
 3. **Read the terms:** [DISCLAIMER.md](DISCLAIMER.md) and [LICENSE.md](LICENSE.md).
+4. **Check the limits:** [SCOPE.md](SCOPE.md) says what is and is not covered. [PROVENANCE.md](PROVENANCE.md) says where the law came from and how far it has been checked.
 
 ## Skills
 
