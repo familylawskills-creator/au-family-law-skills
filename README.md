@@ -16,7 +16,9 @@ They are written for the Federal Circuit and Family Court of Australia (FCFCOA).
 
 ## How to use
 
-Start with `GETTING-STARTED.md`. Each skill folder also has a `USER-GUIDE.md`.
+1. **Get the skills:** [open the repository on GitHub](https://github.com/familylawskills-creator/au-family-law-skills) or [download everything as a ZIP](https://github.com/familylawskills-creator/au-family-law-skills/archive/refs/heads/main.zip).
+2. **Read the guide:** start with [GETTING-STARTED.md](GETTING-STARTED.md). Each skill folder also has a `USER-GUIDE.md`.
+3. **Read the terms:** [DISCLAIMER.md](DISCLAIMER.md) and [LICENSE.md](LICENSE.md).
 
 ## Skills
 
