@@ -100,9 +100,11 @@ Open **Settings**, then **Capabilities**, then **Skills**, and upload the skill 
 
 ### Step 3. Start a new chat and name the skill
 
-Attach your documents and name the skill. Claude also loads a skill on its own when your request matches it.
+Attach your documents and name the skill. You can type `/` followed by the skill name, as in the picture, or just name it in your sentence. Claude also loads a skill on its own when your request matches it.
 
-![Illustration of a Claude chat with a question naming the skill and a reply saying the skill is loading](10-claude-use.png)
+![Real screenshot of a Claude chat: a report and a zip of documents are attached, the message starts with the skill name, and Claude shows the skill loaded and the steps it is working through](11-claude-example.png)
+
+This one is a real screenshot of the skill reviewing a Child Impact Report. The names, the date and the report itself are covered. You can see Claude load the skill, read the report in full, list the documents it was given, and then compare them.
 
 ---
 
