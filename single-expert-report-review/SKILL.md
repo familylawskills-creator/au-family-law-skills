@@ -69,6 +69,7 @@ All three are "designated family reports" if they follow a family assessment and
 4. **Immunity (s 11D).** Do not suggest a civil claim against a family consultant. Whether immunity affects a regulator's or professional body's power to act on a court-ordered report is a legal question: flag it for the lawyer, do not assert either way.
 5. **Release restrictions.** See Step F before quoting anything.
 6. **Live or finished proceedings.** The Court will not investigate a complaint about a family consultant while the matter is before it. Record which stage the matter is at.
+7. **Sort the documents supplied.** Run Step 1B of the main Workflow before scoring. A Child Impact Report or family report usually carries its own list of the material that informed it: use that list to decide what the author read.
 
 ### Step D — Checklist for Track A (replaces Domains 1 and 2; Domains 3 to 5 still run where noted)
 
@@ -191,6 +192,14 @@ Extract: expert's name and qualifications; dates and mode of each assessment (in
 
 ### Step 1A — Reconcile what the expert says was received
 List every statement in the report about material: what was received, read, relied on, offered, declined, not provided or not available (for example "no school information was available"). Check each one against the enclosure lists, the schedule of documents sent, transmission emails and any acknowledgment of receipt. Record four things for each: the report's words with their paragraph, the record entry, the date, and whether they agree. A statement that material was missing or unavailable when the record shows it was sent or acknowledged is a finding under r 7.18 and Domain 4, graded at least Notable, and Critical where an opinion rests on the gap. Do this for every such statement, not only the ones the reviewing party raised. If no transmission record was supplied, mark the step **Not assessable — request [document]**.
+
+### Step 1B — Sort every document supplied
+The reviewing party often supplies more than the author had. Do not assume a document reached the author because it is in the bundle or because the user says so. Before scoring, list every document supplied, with its date and page count, and put each in one group:
+- **Group 1, listed as read.** The report itself lists or cites it (its own list of material, tick boxes, footnotes or body). Can support a finding that the author had it and did not deal with it.
+- **Group 2, sent but not listed.** An enclosure list, transmission email, court file record or acknowledgment shows it was sent to or available to the author, and the report does not list it. Can support a finding under Step 1A. State the record relied on.
+- **Group 3, no proof the author had it.** Nothing shows it reached the author. It may be used to test whether a statement in the report is accurate, and to support a finding that the author did not obtain available material, but never a finding that the author "had", "ignored" or "overlooked" it.
+- **Group 4, dated after the report.** The author could not have read it. Do not use it against the author's conduct. It may still matter to the court's weighing of the report, so note it for the lawyer.
+Where the report has a tick-box or checklist of sources, treat an unticked item as not read unless a record shows otherwise, and say so. Show the sorted list near the top of the review, under "Inputs received". If a document's group is unclear, put it in Group 3 and ask the user what shows the author received it. Also state which documents were read in full and which only in part; if the bundle was too large to read in full, say so plainly and name what was not read. Every finding that relies on a supplied document names that document's group.
 
 ### Step 2 — Run the checklist (five domains, below)
 Score every item **Compliant / Partial / Non-compliant / Not assessable**. Every Partial or Non-compliant finding must carry a short quote from the report (explicit paragraph or section-and-page reference per Writing convention 1) and the exact rule, section or PPG clause.
