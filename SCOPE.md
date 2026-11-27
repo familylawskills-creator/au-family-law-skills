@@ -6,6 +6,8 @@ What these skills cover, and what they do not.
 
 People involved in parenting matters in the Federal Circuit and Family Court of Australia (FCFCOA), whether they represent themselves or are represented by a solicitor, and people helping them without payment.
 
+**If you are involved in a family law matter in any other role:** for example as a family lawyer, solicitor, barrister, Independent Children's Lawyer, expert, report writer, mediator, social worker or support person, you may use the skills in your work free of charge (see `LICENSE.md`, section 2). It is your responsibility to check every Act, rule, regulation, guideline and case a skill cross-references against the current official source before you rely on it. The skills were not written or reviewed by a legal practitioner.
+
 **If you have a solicitor:** use the skills to understand your documents and prepare questions. Take the results to your solicitor before you act on them. Do not send anything to the court, the other party or a regulator without your solicitor's advice.
 
 ## What is covered

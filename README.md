@@ -1,6 +1,6 @@
 # Australian Family Law Self-Help Skills
 
-A set of Claude "skills" that help people in Australian family law matters, whether they represent themselves or have a solicitor, check their own documents against the law: compliance with court orders and child support agreements, the conduct of lawyers and experts, and how to write a complaint to a regulator.
+A set of Claude "skills" that help people in Australian family law matters, whether they represent themselves or have a solicitor, and the lawyers and other professionals involved in those matters, check documents against the law: compliance with court orders and child support agreements, the conduct of lawyers and experts, and how to write a complaint to a regulator.
 
 ## What can this help with?
 
@@ -49,4 +49,10 @@ Do not put real names, children's details, case numbers or sealed documents into
 
 ## Licence
 
-**Free to use and share for personal, non-commercial purposes.** You may use, adapt, copy and share these skills at no cost, as long as you give credit, link to this repository, keep the licence and disclaimer with every copy, and say what you changed. Commercial use needs a paid licence from the author. To ask for one, open an issue titled "Licence request". Full terms are in `LICENSE.md`.
+**Free to use and share for personal, non-commercial purposes.** You may use, adapt, copy and share these skills at no cost, as long as you give credit, link to this repository, keep the licence and disclaimer with every copy, and say what you changed. 
+
+**Free for anyone involved in family court proceedings.** That includes parties and the people helping them, family lawyers, solicitors and barristers, Independent Children's Lawyers, experts and report writers, mediators, social workers and community services. You may use the skills in your work at no cost, including paid work on a client's matter.
+
+**It is your responsibility to check the law.** Whoever you are, check every Act, rule, regulation, guideline and case cross-referenced in a skill, and in anything an AI produces with it, against the current official source before relying on it. The skills were not written or reviewed by a lawyer.
+
+Other commercial use, such as selling the skills or building them into a paid product, needs a paid licence from the author. To ask for one, open an issue titled "Licence request". Full terms are in `LICENSE.md`.
