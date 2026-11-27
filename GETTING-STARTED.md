@@ -4,6 +4,8 @@ These skills were written for Claude, and they also work on other AI tools such 
 
 Pick the part that matches your AI: part 1A for Claude, part 1B for any other AI.
 
+**Prefer pictures?** The [user manual](USER-MANUAL.md) shows every step with an illustration.
+
 ## 1A. Install on Claude
 1. [Download this repository as a zip](https://github.com/familylawskills-creator/au-family-law-skills/archive/refs/heads/main.zip) and unzip it.
 2. In Claude, open **Settings, then Capabilities, then Skills** and upload the skill folders you want. (Menu names may change; check Claude's help centre if you cannot find it.)
